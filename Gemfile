@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+# I added pry & then ran bundle
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
